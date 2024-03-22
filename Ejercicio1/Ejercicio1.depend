@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1711054407 source:c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1711054407 c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\cliente.h
+	<string>
+
+1711054407 source:c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1711054407 c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\fecha.h
+
+1711065287 source:c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\main.cpp
+	<iostream>
+	<cstdlib>
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+	"Prestamo.h"
+
+1711054407 c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\pago.h
+	"Fecha.h"
+
+1711054407 c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\prestamo.h
+	<string.h>
+	"Cliente.h"
+	"Pago.h"
+
+1711054407 source:c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\pago.cpp
+	"Pago.h"
+	<iostream>
+
+1711054407 source:c:\users\aliso\desktop\guias de lab-progra-ll\guia3\ejercicio1\prestamo.cpp
+	"Prestamo.h"
+	<iostream>
+
